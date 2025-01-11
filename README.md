@@ -1,4 +1,4 @@
-Hello, I am BritishMoron (couldn't think of a name) and I just want to make games.
+Hello, I am the creator of TzA Industries, and I just want to make games.
 Thats about it.
 In order to install any of the games here there is a proccess.
 Simply install release HTML Game Pack, and open "home.html" from the .zip file installed.
