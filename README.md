@@ -1,7 +1,8 @@
 Hello, I am the creator of TzA Industries, and I just want to make games.
 Thats about it.
 In order to install any of the games here there is a proccess.
-Simply install release HTML Game Pack, and open "home.html" from the .zip file installed.
+Simply install release HTML Game Pack, and open the folder from the .zip file installed.
+Next open "home.html" and click a link to go to your new games!
 If you cannot use the games from the release for some reason, use the alternate proccess below.
 First, install "home.html" from main.
 2nd, install release Territorial.html.
