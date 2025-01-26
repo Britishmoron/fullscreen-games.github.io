@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fullscreen Games</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/botui/build/botui.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/botui/build/botui-theme-default.css">
+</head>
+<body>
+  <div id="botui-app">
+    <bot-ui></bot-ui>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <script src="https://cdn.jsdelivr.net/npm/botui/build/botui.min.js"></script>
+  <script>
+    var botui = new BotUI('botui-app');
+
+    botui.message.add({
+      content: 'Hello, how can I help you today?'
+    });
+  </script>
+</body>
+</html>
