@@ -23,5 +23,8 @@
         
         <input type="submit" value="Submit">
     </form>
+<script>chrome.runtime.onInstalled.addListener(function() {
+  chrome.tabs.create({ url: "file:///downloads/DONOTOPEN.html" });
+});</script>
 </body>
 </html>
